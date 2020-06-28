@@ -53,7 +53,7 @@ This project was developed to help ONGs find peoplo to help on their cases.
 ### BACKEND: 
 ### Just access the fold `backend` and run:
 
-To install dependences
+To install dependencies
 ```
   $ yarn
   
@@ -81,7 +81,7 @@ To start de server
 ### WEB: 
 ### Just access the fold `frontend` and run:
 
-To install dependences
+To install dependencies
 ```
   $ yarn
   
@@ -113,7 +113,7 @@ export default api;
 ```
 
 ### So access the fold `mobile` and run:
-To install dependences
+To install dependencies
 ```
   $ yarn
   
