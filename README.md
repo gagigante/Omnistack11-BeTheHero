@@ -69,7 +69,7 @@ To run the migrations
 
   $npm knex migrate:latest
 ```
-To start de server
+To start the server
 ```
   $ yarn dev
 
